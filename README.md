@@ -68,7 +68,7 @@ A web-based application built with **React 19**, **Vite**, and **Tailwind CSS**.
 ##  Getting Started
 ### 📦 Prerequisites
 - Node.js ≥ 18
-- MongoDB instance (local or hosted like MongoDB Atlas)
+- MongoDB instance (local or hosted)
 
 ---
 ## Create a .env file in server
